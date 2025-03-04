@@ -1,0 +1,6 @@
+.env
+*.log
+.venv/
+dist/
+node_modules/
+build/
