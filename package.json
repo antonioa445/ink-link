@@ -1,0 +1,10 @@
+{
+  "name": "ink-link",
+  "version": "0.1.0",
+  "description": "Link component for Ink",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
