@@ -1,6 +1,6 @@
 {
   "name": "ink-link",
-  "version": "0.1.32",
+  "version": "0.1.33",
   "description": "Link component for Ink",
   "main": "src/index.ts",
   "scripts": {
